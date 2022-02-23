@@ -1,0 +1,6 @@
+Para utilizar o programa você precisara do Portugol Studio instalado no seu PC
+Inicialize o arquivo "SA Sistema de Votos" com o portugol
+Aperte Shift + f6 para executar o programa
+O programa simula turmas do segundo grau votando em candidatos
+Escolha sua turma digitando (1/2/3) e pressionando enter
+Digite seu voto (1/2/3/4/5/6/10) e pressione enter para confirmar
